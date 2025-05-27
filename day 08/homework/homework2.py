@@ -1,0 +1,5 @@
+city = input("enter your city:")
+district = input("enter your district:")
+building = input("enter your building:")
+floor = input("enter your floor:")
+print("adress :" , city , district , "corps" , building , "floor" , floor)

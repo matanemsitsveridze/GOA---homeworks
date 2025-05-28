@@ -8,4 +8,4 @@
 
 first_user = "Lika"
 second_user = "Giorgi"
-print(firstuser)
+print(first_user)
